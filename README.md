@@ -2,7 +2,7 @@
 Help you to download onlyfans' media
 
 # preview
-
+![image](./screenshot.png)
 
 # How to use
 1. choose the checkbox you want in the SETTING category.
