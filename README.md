@@ -1,7 +1,7 @@
 # Onlyfans-downloader
 Help you to download onlyfans' media
 
-# preview
+# Preview
 ![image](./screenshot.png)
 
 # How to use
@@ -20,3 +20,7 @@ Only download videos.
 
 ## Include Images
 Only download images.
+
+
+# Issue
+If you have any question about this script. Please commit a issue at [here](https://github.com/unknown-software-engineer/Onlyfans-downloader/issues)
